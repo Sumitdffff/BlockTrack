@@ -211,7 +211,7 @@ BlockTrack/
 - Digital signatures for transaction authentication
 - Cloud deployment and secure remote access
 
-## 📘 Screenshots (For GitHub)
+## 📘 Screenshots 
 
 <table>
   <tr>
