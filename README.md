@@ -211,13 +211,14 @@ BlockTrack/
 - Digital signatures for transaction authentication
 - Cloud deployment and secure remote access
 
-📘 Screenshots (For GitHub)
+## 📘 Screenshots (For GitHub)
 
 <table>
   <tr>
     <td align="center">
-      <p><b>BlockTrack Dashboard</b></p>
-      <img width="950" alt="BlockTrack Dashboard Screenshot" src="screenshots/dashboard.png" />
+      <p><b>Main BlockTrack Dashboard</b></p>
+      <img width="950" alt="BlockTrack Dashboard" src="https://github.com/user-attachments/assets/6ec254f3-5ac0-476b-bd67-b26890a4989e" />
+" />
     </td>
   </tr>
 </table>
