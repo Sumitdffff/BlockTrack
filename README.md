@@ -218,7 +218,6 @@ BlockTrack/
     <td align="center">
       <p><b>Main BlockTrack Dashboard</b></p>
       <img width="950" alt="BlockTrack Dashboard" src="https://github.com/user-attachments/assets/6ec254f3-5ac0-476b-bd67-b26890a4989e" />
-" />
     </td>
   </tr>
 </table>
