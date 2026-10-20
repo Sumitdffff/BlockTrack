@@ -211,16 +211,4 @@ BlockTrack/
 - Digital signatures for transaction authentication
 - Cloud deployment and secure remote access
 
----
-
-## 👨‍💻 Author
-
-**BlockTrack Project**
-
-A Python-based blockchain-style transaction tracking and financial analytics application.
-
----
-
-## 📄 License
-
-This project is available for educational and learning purposes. You may add an MIT License if you want to allow others to use, modify, and distribute the project under its terms.
+  
